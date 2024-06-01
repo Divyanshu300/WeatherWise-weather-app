@@ -7,10 +7,6 @@
 </p>
 <p align="center"><img src="https://img.shields.io/badge/License-AGPL-blue" alt="shields"></p>
 
-<h2>🚀 Live </h2>
-
-[Weather App]( https://counter-website-sepia.vercel.app/  )
-
 <br></br>
   
 <h2>🧐 Features</h2>
